@@ -4,7 +4,7 @@
 
 function Add_class() {
     // add CLASS list
-    document.getElementById('obj').classList.toggle('rotation');             
+    document.getElementById('obj').classList.toggle('container');             
 }
 
 function remove_class() {
