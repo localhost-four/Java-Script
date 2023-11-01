@@ -8,5 +8,6 @@ function Add_class() {
 }
 
 function remove_class() {
+    // Remove CLASS list
     document.getElementById('obj').classList.remove("container");
 }
